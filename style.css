@@ -63,7 +63,7 @@ figure > img {
 }
 
 figcaption {
-  max-width: 190px;
+  max-width: 200px;
   background-color: rgba(0, 0, 0, 0.5);
   color: #fff;
   font-style: italic;
